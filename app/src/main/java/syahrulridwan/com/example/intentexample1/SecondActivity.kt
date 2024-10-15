@@ -1,4 +1,4 @@
-package srimulyaniadha.com.example.intentexample1
+package syahrulridwan.com.example.intentexample1
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

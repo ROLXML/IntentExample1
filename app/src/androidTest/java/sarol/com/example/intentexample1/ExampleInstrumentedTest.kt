@@ -1,4 +1,4 @@
-package srimulyaniadha.com.example.intentexample1
+package sarol.com.example.intentexample1
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
